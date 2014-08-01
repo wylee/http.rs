@@ -1,0 +1,10 @@
+[package]
+name = "http.rs"
+version = "0.0.0"
+authors = [ "Wyatt Lee Baldwin <self@wyattbaldwin.com>" ]
+
+[[lib]]
+name = "http"
+
+[[bin]]
+name = "serve"
